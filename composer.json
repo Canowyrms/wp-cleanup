@@ -1,0 +1,9 @@
+{
+    "name": "bk/wp-cleanup",
+    "autoload": {
+        "psr-4": {
+            "BK\\WPCleanup\\": "src/"
+        }
+    },
+    "require": {}
+}
